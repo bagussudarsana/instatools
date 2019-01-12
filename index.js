@@ -1,5 +1,3 @@
-#!/system/xbin/bash
-clear
 'use strict'
 
 //const insta = require('./func.js'); 
