@@ -1,3 +1,4 @@
+clear
 'use strict'
 
 //const insta = require('./func.js'); 
