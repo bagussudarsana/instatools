@@ -70,7 +70,7 @@ const main = async () => {
         break;
 		    
       case "[7] Follow Followers Target + DM":
-        const fftauto = require('./fftauto.js');
+        const fftauto = require('./fftdm.js');
         await fftauto();
         break;
 
