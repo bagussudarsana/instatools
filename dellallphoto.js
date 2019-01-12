@@ -125,8 +125,8 @@ console.log(chalk`
 
   ——————————————————  [THANKS TO]  ————————————————————
   [✓] CODE BY CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
-  [✓] FIXING & TESTING BY SYNTAX (@teamsyntaxid)
-  [✓] CCOCOT.CO | BC0DE.NET | NAONLAH.NET | WingkoColi
+  [✓] FIXING & TESTING BY I Gusti BAgus Sudarsana, S.E
+  [✓] Follow account Instagram @gush_na dan @idberbagi
   [✓] SGB TEAM REBORN | Zerobyte.id | ccocot@bc0de.net 
   —————————————————————————————————————————————————————}
       `);
