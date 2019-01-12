@@ -165,7 +165,7 @@ console.log(chalk`
   [?] {bold.green BOM LIKE POST TARGET *SET SLEEP!}
   ——————————————————  [THANKS TO]  ————————————————————
   [✓] CODE BY CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
-  [✓] FIXING & TESTING BY I Gusti BAgus Sudarsana, S.E
+  [✓] FIXING & TESTING BY I Gusti Bagus Sudarsana, S.E
   [✓] Follow account Instagram @gush_na dan @idberbagi
   [✓] SGB TEAM REBORN | Zerobyte.id | ccocot@bc0de.net 
   —————————————————————————————————————————————————————
