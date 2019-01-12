@@ -147,7 +147,7 @@ console.log(chalk`
   [?] {bold.green Gunakan komen.txt untk komen!}
 
   ——————————————————  [THANKS TO]  ————————————————————
-   [✓] CODE BY CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
+  [✓] CODE BY CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
   [✓] FIXING & TESTING BY I Gusti Bagus Sudarsana, S.E
   [✓] Follow account Instagram @gush_na dan @idberbagi
   [✓] SGB TEAM REBORN | Zerobyte.id | ccocot@bc0de.net 
