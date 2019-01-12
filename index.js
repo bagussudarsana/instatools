@@ -1,3 +1,4 @@
+#!/system/xbin/bash
 clear
 'use strict'
 
