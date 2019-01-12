@@ -20,13 +20,14 @@ const questionTools = [
         "[4] Unfollow All Following",
         "[5] Unfollow Not Followback",
         "[6] Follow Followers Target",
-        "[7] Follow Account By Media",
-        "[8] Follow Account By Hastag",
-        "[9] Follow Account By Location",
-        "[10] Follow Followers Target No Like",
-	"[11] Follow Followers Target No Comment & Like",
-        "[12] Bom Like Post Target",
-	"[12] Bom Komen Post Target",
+        "[7] Follow Followers Target + DM",
+        "[8] Follow Account By Media",
+        "[9] Follow Account By Hastag",
+        "[10] Follow Account By Location",
+        "[11] Follow Followers Target No Like",
+	"[12] Follow Followers Target No Comment & Like",
+        "[13] Bom Like Post Target",
+	"[14] Bom Komen Post Target",
         "\n"
       ] 
   }
@@ -67,36 +68,41 @@ const main = async () => {
         const fftauto = require('./fftauto.js');
         await fftauto();
         break;
+		    
+      case "[7] Follow Followers Target + DM":
+        const fftauto = require('./fftauto.js');
+        await fftauto();
+        break;
 
-      case "[7] Follow Account By Media":
+      case "[8] Follow Account By Media":
         const flmauto = require('./flmauto.js');
         await flmauto();
         break;
 
-      case "[8] Follow Account By Hastag":
+      case "[9] Follow Account By Hastag":
         const fah = require('./fah.js');
         await fah();
         break;
 
-      case "[9] Follow Account By Location":
+      case "[10] Follow Account By Location":
         const flaauto = require('./flaauto.js');
         await flaauto();
         break;
 		
-	   case "[10] Follow Followers Target No Like":
+	   case "[11] Follow Followers Target No Like":
         const fft = require('./fft.js');
         await fft();
         break;
 
-	   case "[11] Follow Followers Target No Comment & Like":
+	   case "[12] Follow Followers Target No Comment & Like":
         const fftold = require('./fftold.js');
         await fftold();
         break;
-	   case "[12] Bom Like Post Target":
+	   case "[13] Bom Like Post Target":
         const bomlike = require('./bomlike.js');
         await bomlike();
         break;
-	 case "[13] Bom Komen Post Target":
+	 case "[14] Bom Komen Post Target":
         const bomkomen = require('./bomkomen.js');
         await bomkomen();
         break;
