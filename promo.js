@@ -144,7 +144,7 @@ console.log(chalk`
   —————————————————— [INFORMATION] ————————————————————
 
   [?] {bold.green Comment & Like | Using Hastag Target!}
-  [?] {bold.green Gunakan komen.txt untk komen!}
+  [?] {bold.green Gunakan promosi.txt untk komen!}
 
   ——————————————————  [THANKS TO]  ————————————————————
   [✓] CODE BY CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
